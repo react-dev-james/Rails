@@ -17,8 +17,6 @@
   ],
   "author": "David Heinemeier Hansson <david@loudthinking.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/rails/rails/issues"
-  },
+
   "homepage": "http://rubyonrails.org/"
 }

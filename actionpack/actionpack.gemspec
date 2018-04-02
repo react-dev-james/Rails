@@ -21,10 +21,7 @@ Gem::Specification.new do |s|
   s.require_path = "lib"
   s.requirements << "none"
 
-  s.metadata = {
-    "source_code_uri" => "https://github.com/rails/rails/tree/v#{version}/actionpack",
-    "changelog_uri"   => "https://github.com/rails/rails/blob/v#{version}/actionpack/CHANGELOG.md"
-  }
+
 
   s.add_dependency "activesupport", version
 
